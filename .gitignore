@@ -1,0 +1,4 @@
+*.zip
+*.ipynb
+bikeshare_w_instructions.py
+.ipynb_checkpoints/*
